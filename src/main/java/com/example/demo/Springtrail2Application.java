@@ -10,10 +10,11 @@ public class Springtrail2Application {
 		SpringApplication.run(Springtrail2Application.class, args);
 
 
-		System.out.print("these are the new changes");
-
+		System.out.println("these are the new changes");
 		
-		System.out.print("theses are changes made by Aashish by importsthe entire project in the eclipse from intelij and from github");
+		System.out.println("these are the new changes made by mayur");
+
+		System.out.println("theses are changes made by Aashish by importsthe entire project in the eclipse from intelij and from github");
 	}
 
 }
